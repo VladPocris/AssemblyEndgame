@@ -133,7 +133,7 @@ The built files will be in the `dist/` directory, ready for deployment.
 
 ## Preview
 
-![Assembly Endgame Screenshot](public/favicon.svg)
+![Assembly Endgame Screenshot]([https://assembly-endgame-khaki-iota.vercel.app/])
 
 ## License
 
